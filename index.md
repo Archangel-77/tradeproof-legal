@@ -8,7 +8,7 @@ description: How the TradeProof Android app handles your data: everything stays 
 **Effective date:** 20 October 2026
 **Applies to:** the Android app **TradeProof** (package `io.github.archangel77.tradeproof`)
 
-**Developer:** [YOUR NAME OR BUSINESS NAME] ("we")
+**Developer:** Panagiotis Panageas ("we")
 **Contact:** tradeproof.app.support@gmail.com
 
 ---
@@ -81,6 +81,9 @@ erase for you. You exercise these rights directly:
 If you believe we hold something about you anyway, write to the contact address above and we will
 answer within 30 days.
 
+If you are in the European Union, you also have the right to lodge a complaint with your national
+data protection authority — in Greece, the Hellenic Data Protection Authority (dpa.gr).
+
 ## Data retention
 
 Nothing is retained by us. On your device, data stays until you delete it or uninstall the app.
@@ -93,8 +96,7 @@ notes.
 
 ## Governing law
 
-This policy is governed by the laws of [YOUR COUNTRY / JURISDICTION], without regard to conflict
-of law rules.
+This policy is governed by the laws of Greece, without regard to conflict of law rules.
 
 ---
 
